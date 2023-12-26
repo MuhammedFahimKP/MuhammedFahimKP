@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is  Muhammed Fahim and I'm a  from  Calicut in Kerala</h2>
+<h2 align="left">Hi 👋! My name is  Muhammed Fahim </h2>
 
 ###
 
